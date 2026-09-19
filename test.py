@@ -1,0 +1,5 @@
+print (10/2)
+print (int(11/2))
+print (11//2)
+
+# SLASH SLASH MAKES DIVISION ROUNDS UP WITH AN INTGER
