@@ -1,0 +1,6 @@
+firstname = ("Jibran")
+surname = ("Mohamed")
+print (firstname +" "+ surname)
+print ("madinah "*5)
+py = ("PythonPrograming")
+print (py [0:6])
